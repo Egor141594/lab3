@@ -15,6 +15,8 @@ R = (a * sqrt(2)) / 2;
 ## Блок-схема  
 
 <img width="132" height="607" alt="image" src="https://github.com/user-attachments/assets/e2ec3d91-5c6b-409e-b54a-7b9036e4bac2" />  
+## Реализация программы  
+
 
 
 
