@@ -13,3 +13,6 @@ R = (a * sqrt(2)) / 2;
 6.Вывести полученные значения r и R на экран  
 7.Конец  
 ## Блок-схема  
+
+<img width="132" height="607" alt="image" src="https://github.com/user-attachments/assets/fefe9a3f-ea51-4e71-8949-6eb0322a8c2e" />  
+
